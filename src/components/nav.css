@@ -1,0 +1,17 @@
+nav{
+    display: flex;
+    align-items: right;
+    background: #def3d1;
+}
+
+.nav-links {
+    display: flex;
+    align-items: right;
+    list-style: none;
+    color: rgb(5, 1, 41);
+}
+
+.space {
+    padding-left: 5cm;  
+    align-self: right;
+}

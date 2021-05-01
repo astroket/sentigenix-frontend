@@ -1,0 +1,16 @@
+.NLP {
+    display:flex;
+    justify-content:center;
+    padding-top: 10px;
+}
+
+.Row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.align {
+    display: flex;
+    justify-content: center;
+}
